@@ -1,11 +1,11 @@
 // This is an include guard with a purpose - we need more control than the
 // standard include guards give.
 
-#include "..\YSI-Internal\y_version"
+#include "..\YSI_Internal\y_version"
 #include "y_utils"
-#include "..\YSI-Server\y_scriptinit"
-#include "..\YSI-Data\y_bit"
-#include "..\YSI-Internal\y_shortfunc"
+#include "..\YSI_Server\y_scriptinit"
+#include "..\YSI_Data\y_bit"
+#include "..\YSI_Internal\y_shortfunc"
 
 enum ALS
 {
